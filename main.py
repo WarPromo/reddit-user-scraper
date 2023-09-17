@@ -9,15 +9,6 @@ FILE_TO_WRITE = "users.txt";
 
 BROWSER_CHOICE = "firefox" #'firefox' or 'chrome'
 
-
-
-
-#Dear skids, bow down to the benevolent programmer.
-
-
-
-
-
 userlist = {};
 
 try:
@@ -125,3 +116,5 @@ for SUBREDDIT in SUBREDDITS:
 print("---------------")
 print("Program finished.")
 print("---------------")
+
+#Dear skids, bow down to the benevolent programmer.
